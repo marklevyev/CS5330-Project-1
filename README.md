@@ -2,7 +2,7 @@
 
 Name: Mark Levy 
 
-Video Links:  
+Video Links:  https://youtu.be/GgKvadCNW_s
 
 OS: MacOS Sonoma 14.2.1 
 
